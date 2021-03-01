@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<environment>
+    <!-- TimeOut -->
+    <timeout>5</timeout>
+
+    <!--Platform-->
+    <platformType>web</platformType>
+
+    <!--Web-->
+    <browser>Chrome</browser>
+    <url>https://buyme.co.il/</url>
+    <imageRepo>./ImageRepository/</imageRepo>
+</environment>
